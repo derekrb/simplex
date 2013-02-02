@@ -1,1 +1,1 @@
-A simple script to optimize a linear program using the SIMPLEX algorithm.
+A simple script to optimize a linear program using the SIMPLEX algorithm. The function "simplex" in simplex.m is the entry point for running an optimization.
